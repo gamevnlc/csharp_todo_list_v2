@@ -1,0 +1,14 @@
+D:\Projects\learn\C#\TodoListV2\TodoListV2\bin\Debug\net8.0\TodoListV2.exe
+D:\Projects\learn\C#\TodoListV2\TodoListV2\bin\Debug\net8.0\TodoListV2.deps.json
+D:\Projects\learn\C#\TodoListV2\TodoListV2\bin\Debug\net8.0\TodoListV2.runtimeconfig.json
+D:\Projects\learn\C#\TodoListV2\TodoListV2\bin\Debug\net8.0\TodoListV2.dll
+D:\Projects\learn\C#\TodoListV2\TodoListV2\bin\Debug\net8.0\TodoListV2.pdb
+D:\Projects\learn\C#\TodoListV2\TodoListV2\obj\Debug\net8.0\TodoListV2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\learn\C#\TodoListV2\TodoListV2\obj\Debug\net8.0\TodoListV2.AssemblyInfoInputs.cache
+D:\Projects\learn\C#\TodoListV2\TodoListV2\obj\Debug\net8.0\TodoListV2.AssemblyInfo.cs
+D:\Projects\learn\C#\TodoListV2\TodoListV2\obj\Debug\net8.0\TodoListV2.csproj.CoreCompileInputs.cache
+D:\Projects\learn\C#\TodoListV2\TodoListV2\obj\Debug\net8.0\TodoListV2.dll
+D:\Projects\learn\C#\TodoListV2\TodoListV2\obj\Debug\net8.0\refint\TodoListV2.dll
+D:\Projects\learn\C#\TodoListV2\TodoListV2\obj\Debug\net8.0\TodoListV2.pdb
+D:\Projects\learn\C#\TodoListV2\TodoListV2\obj\Debug\net8.0\TodoListV2.genruntimeconfig.cache
+D:\Projects\learn\C#\TodoListV2\TodoListV2\obj\Debug\net8.0\ref\TodoListV2.dll
